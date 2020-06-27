@@ -1,4 +1,5 @@
 # ncmdump -- a cool repository
+**Earned it**
 
 ## URL:https://github.com/anonymous5l/ncmdump
 ## basic function
